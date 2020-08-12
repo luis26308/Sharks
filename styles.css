@@ -1,0 +1,17 @@
+body {
+    background: url(https://wallpapersite.com/images/pages/pic_w/13987.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+ol {
+    color: gray;
+}
+
+h1 { 
+    color: gray;
+}
+
